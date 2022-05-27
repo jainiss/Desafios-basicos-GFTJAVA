@@ -1,4 +1,4 @@
-//
+ /*  
 Desafio:
 A Copa do Mundo de Futebol é um dos maiores eventos esportivos do Planeta Terra, e o álbum de figurinhas oficial
 é sempre um grande sucesso entre os amantes dessa competição.
@@ -19,7 +19,7 @@ Cada uma das M linhas seguintes contém um número inteiro X (1 ≤ X ≤ N) ind
 Saída
 Seu programa deve produzir uma única linha contendo um inteiro representando
 o número de figurinhas que falta para completar o álbum.
-//
+ */
 
  
 
