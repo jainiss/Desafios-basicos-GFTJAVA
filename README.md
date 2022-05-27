@@ -1,2 +1,2 @@
 # Desafio-basicos-JAVA
-Desafio basicos GFT JAVA DIO
+Desafios básicos passados no GFT JAVA DIO (2022)
